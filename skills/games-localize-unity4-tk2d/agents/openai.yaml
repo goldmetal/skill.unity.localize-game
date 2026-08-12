@@ -1,0 +1,4 @@
+interface:
+  display_name: "Unity 4 tk2d Korean Localization"
+  short_description: "Unity 4 tk2dFontData 게임 한국어 패치 제작"
+  default_prompt: "Use $localize-unity4-tk2d-games to analyze this Unity 4 game and build a validated Korean localization patch."
