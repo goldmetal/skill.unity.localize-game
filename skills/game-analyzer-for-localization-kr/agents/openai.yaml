@@ -1,0 +1,4 @@
+interface:
+  display_name: "Game Analyzer for Localization KR"
+  short_description: "게임 엔진·폰트·언어 데이터를 저비용으로 사전 분석"
+  default_prompt: "Use $game-analyzer-for-localization-kr to inspect this game and write a Korean localization development plan."
