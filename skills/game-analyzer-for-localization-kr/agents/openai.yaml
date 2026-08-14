@@ -1,4 +1,4 @@
 interface:
   display_name: "Game Analyzer for Localization KR"
-  short_description: "게임 바탕·언어 옵션·폰트·데이터를 사전 분석"
-  default_prompt: "Use $game-analyzer-for-localization-kr to inspect this game, grade the four localization areas, and write a Korean localization development plan."
+  short_description: "한글화 가능성과 패치 안전성을 단발성으로 사전 분석"
+  default_prompt: "Use $game-analyzer-for-localization-kr once to inspect this game, apply safety gates, write a Korean localization plan, and hand off all follow-up work to that plan."
